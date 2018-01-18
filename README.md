@@ -2,7 +2,8 @@
 reptile-gongxinbu-新能源推荐推车2017年1批到12批，分为两种一种是htm结尾，一种是html结尾，爬取规则不同所以有两套代码
 
 目的是为了爬取工信部网站的推荐新能源车辆信息到本地，后续把对应的表传
-'''
+
+```
 车型  	car_name
 型号	car_xinghao
 外廓尺寸长（mm）：	chang
@@ -32,4 +33,4 @@ Ekg单位载质量能量消耗量（Wh/km·kg）	 ekg
 燃料消耗量（L/100km，电量平衡运行阶段）：	ranliaoxiaohao_dl
 0分钟最高车速（km/h）：	sanshi_speed
 电池系统总质量占整车整备质量比例（%）	battery_zc
-'''
+```
